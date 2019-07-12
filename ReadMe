@@ -1,0 +1,28 @@
+A Greedy Snake Game Created by C++ .
+
+
+This game uses object-oriented programming implementation, has menu and interface design.Here are the rules of the game.
+
+Here are the rules of the game.There are three versions of the game.
+
+The entry-level version:
+  The player is required to control the direction of the snake by the Direction key ,so that the snake can eat the food in the
+  random position on the panel (the position is random and the quantity is 1-5 random.) Each time the snake successfully eats the 
+  food ,its length will increase 1 and its score will increase.The food will regenerate randomly when it is eaten up.When the snake 
+  hits the boundary or the head collides with the body,the snake will die and the game will be over.
+  
+  
+  
+The improved version:
+  When the snake dies,its corpse will become the boundary and generates the food and the snake randomly. The game continues.
+  Until there is not enough space to produce new snake and food.
+  
+  
+ The advanced version:
+  When the snake dies,its corpse will become the food and generates the food and the snake randomly. The game continues.
+  Until there is not enough space to produce new snake and food.
+
+
+Besides: There are many more intersting things you wil find in the game yourself.
+
+
